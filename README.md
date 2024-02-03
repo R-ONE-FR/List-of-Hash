@@ -1,5 +1,5 @@
 **A python script to calcul hash of MD5, SHA-256, SHA-384 and SHA-512**
-Only Work on Windows Desktop
+\nOnly Work on Windows Desktop
 
 Very intuitive to use
 You can easily change parameters
