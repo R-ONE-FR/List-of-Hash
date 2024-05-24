@@ -6,4 +6,4 @@ Very intuitive to use
 
 You can easily change parameters
 
-``I made an attempt to run the calculations in parallel, but unfortunately with little success. If you have any suggestions, I'm open``
+``I made an attempt to run the calculations in parallel, but unfortunately with no success. If you have any suggestions, I'm open``
